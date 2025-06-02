@@ -67,7 +67,21 @@ This project aims to demonstrate the potential of quantum machine learning to si
 
 ## Project Structure
 
-.├── QNN.ipynb                     # Main Jupyter Notebook: QRNN model development, data simulation, training, and evaluation.├── QNNqbraid.ipynb               # Exploratory Jupyter Notebook: QRNN with Qiskit for remote backend execution.├── README.md                     # This README file.├── public/│   ├── index.html                # Main HTML page for the React app.│   └── ...                       # Other static assets (favicon, manifest, etc.)└── src/├── App.css                   # General styles for the React application.├── App.js                    # Main React application component, renders EnergyDashboard.├── App.test.js               # Basic tests for the App component (default Create React App test).├── EnergyDashboard.jsx       # React component for the energy analytics dashboard UI, data simulation, and chart rendering.├── index.css                 # Global CSS styles.├── index.js                  # Entry point for the React application, renders the App component.├── logo.svg                  # Application logo (as imported in App.js, default from Create React App).└── reportWebVitals.js        # React performance reporting utility.*(Note: `package.json`, `node_modules/`, and other typical React project configuration files are assumed to be present but were not explicitly provided.)*
+├── QNN.ipynb                     # Main Jupyter Notebook: QRNN model development, data simulation, training, and evaluation. 
+├── QNNqbraid.ipynb               # Exploratory Jupyter Notebook: QRNN with Qiskit for remote backend execution. 
+├── README.md                     # This README file. 
+├── public/
+│   ├── index.html                # Main HTML page for the React app. 
+│   └── ...                       # Other static assets (favicon, manifest, etc.) 
+└── src/ 
+├── App.css                   # General styles for the React application. 
+├── App.js                    # Main React application component, renders EnergyDashboard. 
+├── App.test.js               # Basic tests for the App component (default Create React App test). 
+├── EnergyDashboard.jsx       # React component for the energy analytics dashboard UI, data simulation, and chart rendering. 
+├── index.css                 # Global CSS styles. 
+├── index.js                  # Entry point for the React application, renders the App component. 
+├── logo.svg                  # Application logo (as imported in App.js, default from Create React App). 
+└── reportWebVitals.js        # React performance reporting utility. 
 
 ---
 
