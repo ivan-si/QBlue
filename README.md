@@ -79,7 +79,7 @@ This project aims to demonstrate the potential of quantum machine learning to si
 * index.css           # Global CSS styles.
 * index.js            # Entry point for the React application, renders the App component.
 * logo.svg            # Application logo (as imported in App.js, default from Create React App).
-* reportWebVitals.js  # React performance reporting utility.
+
 
 ---
 
