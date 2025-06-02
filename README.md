@@ -137,7 +137,7 @@ This project aims to demonstrate the potential of quantum machine learning to si
 
 ---
 
-## 🔬 Code Highlights
+## Code Highlights
 
 ### `EnergyDashboard.jsx` (Frontend)
 
