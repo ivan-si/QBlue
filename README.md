@@ -77,7 +77,7 @@ This project aims to demonstrate the potential of quantum machine learning to si
 ├── App.css                   # General styles for the React application. 
 ├── App.js                    # Main React application component, renders EnergyDashboard. 
 ├── App.test.js               # Basic tests for the App component (default Create React App test). 
-├── EnergyDashboard.jsx       # React component for the energy analytics dashboard UI, data simulation, and chart rendering. 
+├── EnergyDashboard.jsx       # React component for the energy analytics dashboard UI, data simulation, and chart rendering.
 ├── index.css                 # Global CSS styles. 
 ├── index.js                  # Entry point for the React application, renders the App component. 
 ├── logo.svg                  # Application logo (as imported in App.js, default from Create React App). 
